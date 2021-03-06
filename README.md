@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=houwenbo&show_icons=true&icon_color=000&text_color=000&bg_color=ffffff&hide_title=true" />
 
-A developer who is converting coffee to code as a routine.
+A developer who is converting coffee to code.
 
 [https://houwenbo.com](https://houwenbo.com)
 
